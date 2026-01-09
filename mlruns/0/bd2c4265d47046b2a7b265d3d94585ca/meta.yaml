@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/venka/OneDrive/Desktop/ml_ops/mlops_mlflow/mlruns/0/bd2c4265d47046b2a7b265d3d94585ca/artifacts
+end_time: 1767936782062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd2c4265d47046b2a7b265d3d94585ca
+run_name: sneaky-chimp-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767936781833
+status: 3
+tags: []
+user_id: venka

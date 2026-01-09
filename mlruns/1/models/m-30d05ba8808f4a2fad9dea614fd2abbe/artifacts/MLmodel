@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/venka/OneDrive/Desktop/ml_ops/mlops_mlflow/mlruns/1/models/m-30d05ba8808f4a2fad9dea614fd2abbe/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-30d05ba8808f4a2fad9dea614fd2abbe
+model_size_bytes: 54464
+model_uuid: m-30d05ba8808f4a2fad9dea614fd2abbe
+prompts: null
+run_id: 453d6b36c5cc4f6b9a07fdc36f53d010
+utc_time_created: '2026-01-09 06:40:14.484957'

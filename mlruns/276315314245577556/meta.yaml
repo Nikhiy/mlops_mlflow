@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/venka/OneDrive/Desktop/ml_ops/mlops_mlflow/mlruns/276315314245577556
+creation_time: 1767936380485
+experiment_id: '276315314245577556'
+last_update_time: 1767936380485
+lifecycle_stage: active
+name: wine-rf-experiment
